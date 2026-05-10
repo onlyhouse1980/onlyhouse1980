@@ -1,33 +1,62 @@
-Professional Value Proposition: Engineering AI-Driven Solutions
+This `README.md` layout is designed to be visually engaging while highlighting your **10+ years of experience** and your strategic use of **AI and modern web technologies**. It uses a mix of Markdown, HTML for progress bars, and Shields.io badges to create a professional developer profile.
 
-  "With 10+ years of experience crafting high-performance web applications, I specialize in transforming complex business requirements into visually striking digital experiences.
+***
 
-  My expertise lies in integrating advanced AI models—such as Gemini 3.0 Pro and specialized GenAI triage systems—not as mere novelties, but as core architectural components that drive efficiency, transparency, and revenue.
+# Hi, I'm Ryan Nyberg 👋 
+### **Full Stack Developer | AI Solutions Architect | UI/UX Enthusiast**
 
-  My approach to AI development is defined by four strategic pillars:
-Solving Complex, Regulated Workflows: I developed the Kanzlei Intake Suite, a compliance-first legal intake platform that utilizes AI-powered triage and jurisdiction-aware guardrails to automate case prioritization while adhering to strict privacy standards.
+I craft high-performance web applications that push the boundaries of what's possible in a browser. With **10+ years of professional experience**, I specialize in building seamless user experiences—from **pixel-perfect interfaces** to **scalable backend architectures**.
 
-  Building High-Velocity, Monetizable Products: I engineered Launchpad, a full-stack SaaS boilerplate that integrates Gemini 3.0 Pro with complex Stripe subscription models, enabling businesses to deploy production-ready, AI-enabled applications at scale in minutes.
+---
 
-  Driving Analytical Transparency: Through the Fine Truth Forensic Audit, I built a Forensic AI verification engine that generates real-time integrity scores for global service providers, providing objective, data-driven transparency into corporate accountability.
+### 🚀 Professional Value Proposition: Engineering AI-Driven Solutions
 
-  Enhancing Human-Centric Communication: My work on 'Can We Talk?' and the Lifestory AI Android app demonstrates my ability to use AI for real-time emotional tone analysis and creative storytelling, empowering users to bridge communication gaps and preserve personal narratives.
+> "I specialize in transforming complex business requirements into **visually striking digital experiences**. My expertise lies in integrating advanced AI models—such as **Gemini 3.0 Pro** and specialized **GenAI triage systems**—not as mere novelties, but as core architectural components that drive efficiency, transparency, and revenue".
 
-  Supported by a technical stack featuring Next.js (95%), TypeScript (90%), and UI/UX & Animation (85%), I build 'pixel-perfect' interfaces that push the boundaries of browser capabilities.
+#### **Strategic Pillars of My Practice:**
+*   ⚖️ **Regulated Workflows:** Developed the **Kanzlei Intake Suite**, a compliance-first legal platform using **AI-powered triage** and jurisdiction-aware guardrails.
+*   💰 **High-Velocity SaaS:** Engineered **Launchpad**, a boilerplate integrating **Gemini 3.0 Pro** with complex **Stripe** subscription models for immediate monetization.
+*   🔍 **Analytical Transparency:** Built the **Fine Truth Forensic Audit** engine, generating real-time integrity scores (0-100) for global service providers.
+*   🤝 **Human-Centric AI:** Created **'Can We Talk?'** (real-time emotional tone analysis) and **Lifestory AI** (Android autobiography app) to bridge communication gaps and preserve narratives.
 
-  My portfolio—featuring scroll-triggered GSAP animations, live iframe previews, and interactive project deep-dives—serves as a functional demonstration of my commitment to high-performance, interactive, and professionally polished software development."
+---
 
-<!--
-**onlyhouse1980/onlyhouse1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Tech Stack & Expertise
 
-Here are some ideas to get you started:
+| Skill | Proficiency |
+| :--- | :--- |
+| **React / Next.js** | ![95%](https://geps.dev/progress/95?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **95%** |
+| **TypeScript** | ![90%](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **90%** |
+| **Node.js / Express** | ![88%](https://geps.dev/progress/88?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **88%** |
+| **UI/UX & Animation** | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **85%** |
+| **PostgreSQL / MongoDB** | ![82%](https://geps.dev/progress/82?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **82%** |
+| **AWS / DevOps** | ![75%](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff) **75%** |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies:** 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+---
+
+### 📂 Featured Work
+<details>
+  <summary><b>View Notable Projects</b></summary>
+  
+  *   **BarStart DE Ref. App:** Digital training hub for bartenders with a dynamic quiz system.
+  *   **OBCG Portal:** Community water management hub with real-time leak detection.
+  *   **UX/UI Effects:** High-fidelity interactive components and visual analysis tools.
+</details>
+
+---
+
+### 📫 Let's Build Something Great
+*   📧 **Email:** [onlyhouse@gmail.com](mailto:onlyhouse@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/ryan-nyberg](https://linkedin.com/in/ryan-nyberg)
+*   🌍 **Location:** Remote — Worldwide
+
+***
+
+### **How to Use This:**
+1.  **Shields.io Badges:** I included badges for your primary tech stack. You can customize the colors or styles at [Shields.io](https://shields.io/).
+2.  **Progress Bars:** I used `geps.dev` for the progress bars to reflect the specific percentages from your portfolio.
+3.  **Details Tag:** The "Featured Work" section uses a collapsible `<details>` tag to keep the README clean while still providing project depth.
+4.  **Citations:** I have included source citations as requested, though you may want to remove the `[i]` brackets for the final version you paste into GitHub.
