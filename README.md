@@ -1,5 +1,3 @@
-This `README.md` layout is designed to be visually engaging while highlighting your **10+ years of experience** and your strategic use of **AI and modern web technologies**. It uses a mix of Markdown, HTML for progress bars, and Shields.io badges to create a professional developer profile.
-
 ***
 
 # Hi, I'm Ryan Nyberg 👋 
@@ -43,7 +41,7 @@ I craft high-performance web applications that push the boundaries of what's pos
   
   *   **BarStart DE Ref. App:** Digital training hub for bartenders with a dynamic quiz system.
   *   **OBCG Portal:** Community water management hub with real-time leak detection.
-  *   **UX/UI Effects:** High-fidelity interactive components and visual analysis tools.
+  *   **Can We Talk:** Multi-User interactive AI conflict mediation tool.
 </details>
 
 ---
@@ -54,9 +52,3 @@ I craft high-performance web applications that push the boundaries of what's pos
 *   🌍 **Location:** Remote — Worldwide
 
 ***
-
-### **How to Use This:**
-1.  **Shields.io Badges:** I included badges for your primary tech stack. You can customize the colors or styles at [Shields.io](https://shields.io/).
-2.  **Progress Bars:** I used `geps.dev` for the progress bars to reflect the specific percentages from your portfolio.
-3.  **Details Tag:** The "Featured Work" section uses a collapsible `<details>` tag to keep the README clean while still providing project depth.
-4.  **Citations:** I have included source citations as requested, though you may want to remove the `[i]` brackets for the final version you paste into GitHub.
